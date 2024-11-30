@@ -1,0 +1,110 @@
+body p {
+    font-family: cursive;
+}
+
+.unic {
+    color: orange;
+}
+
+body {
+    background-color: #0a1c0c;
+    color: #7ceb8f
+}
+
+h1, h3 {
+    font-family: arial black;
+    text-align: center;
+    color: white;
+    border-bottom: 2px solid lightgreen;
+}
+
+h2 {
+    font-family: arial black;
+    text-align: center;
+    color: white;
+    border: 10px solid rgb(0, 0, 0);
+}
+
+h1 img {
+    height: 200px;
+    width: 375px;
+}
+
+nav {
+    margin: 20px 0px;
+    padding: 20px 0px;
+    text-align: center;
+    text-decoration: none;
+    background-color: black;
+}
+
+nav a {
+    text-decoration: none;
+    padding-right: 60px; 
+    color: #7ceb8f;
+}
+
+.osos {
+    color: darkgreen;
+    background-color: #7ceb8f;
+    border-radius: 10px;
+    padding: 10px 25px
+}
+
+table {
+    border: 2px solid rgb(174, 255, 191);
+    background: rgb(31, 31, 31);
+}
+
+tr img {
+    height: 15px
+}
+
+.isis {
+   color: black;
+    background-color: blue;
+    border-radius: 10px;
+    padding: 10px 25px; 
+}
+
+.asas {
+   color: black;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px 25px 
+}
+
+.bsbs {
+   color: black;
+    background-color: lightgreen;
+    border-radius: 10px;
+    padding: 10px 25px 
+}
+
+.asus {
+   color: black;
+    background-color: gray;
+    border-radius: 10px;
+    padding: 10px 25px 
+}
+
+.ysys {
+   color: black;
+    background-color: lightblue;
+    border-radius: 10px;
+    padding: 10px 25px 
+}
+
+.isis, .asas, .bsbs, .asus, .ysys {
+    margin: 35px 35px;
+    padding: 35px 35px;
+}
+
+
+
+
+
+
+
+
+
